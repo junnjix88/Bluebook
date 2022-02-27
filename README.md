@@ -1,3 +1,3 @@
 # Bluebook
 Desktop application software for Teachers.
-Download Windows installer: https://www.dropbox.com/s/kjrc7jin37iiw40/Bluebook.exe?dl=0
+Download Windows installer: https://www.dropbox.com/s/w5wpn459gl2obnj/Bluebook.exe?dl=0
